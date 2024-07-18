@@ -22,9 +22,9 @@ BusinessCustomer, RetailCustomer, and PreferredCustomer.
   This class also overrides the toString method in including cashback rate information.
 
 **Example Output**
+
 ![image](https://github.com/user-attachments/assets/60ae9d36-12b9-42d0-9afd-c81ab6645507)
 ![image](https://github.com/user-attachments/assets/ce7f5a3b-2c74-4677-b4e1-379497edab7c)
-
 
 **JavaDoc Pages**
 ![image](https://github.com/user-attachments/assets/41655464-61b8-469d-b2ed-b0131712897d)
