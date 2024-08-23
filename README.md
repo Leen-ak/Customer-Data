@@ -1,4 +1,4 @@
-﻿# Customer-Data-Storage
+﻿# Customer-Data
 
 **Overview**
 This Java program models a real-world customer data storage application. The project demonstrates object-oriented programming principles by creating a hierarchy of customer types, each with unique properties and methods. The application includes a main tester class to instantiate and manipulate objects from the customer hierarchy, showcasing inheritance, polymorphism, and encapsulation.
